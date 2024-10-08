@@ -1,0 +1,3 @@
+/home/prayash/stuffs/PythonCtype/cmake-build-debug/CMakeFiles/PythonCtype.dir
+/home/prayash/stuffs/PythonCtype/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/prayash/stuffs/PythonCtype/cmake-build-debug/CMakeFiles/rebuild_cache.dir

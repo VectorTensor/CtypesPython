@@ -1,0 +1,21 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/prayash/stuffs/PythonCtype/cmake-build-debug",
+	"dir-cur-src" : "/home/prayash/stuffs/PythonCtype",
+	"dir-top-bld" : "/home/prayash/stuffs/PythonCtype/cmake-build-debug",
+	"dir-top-src" : "/home/prayash/stuffs/PythonCtype",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"/usr/include/python3.12"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/prayash/stuffs/PythonCtype/cmake-build-debug/CMakeFiles/PythonCtype.dir"
+}
